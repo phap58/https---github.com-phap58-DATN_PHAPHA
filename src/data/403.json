@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "room": 403,
+    "name": "May1",
+    "path": "D:\\May12\\May12.vmx",
+    "status": "Shutdown",
+    "ip": "192.168.38.11",
+    "os": "Windows 10",
+    "cpu": "2",
+    "memory": "4GB",
+    "disk": "60GB",
+    "network": "NAT"
+  },
+  {
+    "id": 2,
+    "room": 403,
+    "name": "May10",
+    "path": "D:\\May3\\May3.vmx",
+    "status": "Shutdown",
+    "ip": "192.168.38.22",
+    "os": "Windows 10",
+    "cpu": "2",
+    "memory": "4GB",
+    "disk": "60GB",
+    "network": "NAT"
+  },
+  {
+    "id": 3,
+    "room": 403,
+    "name": "May16",
+    "path": "D:\\May16\\May16.vmx",
+    "status": "Shutdown",
+    "ip": "192.168.38.33",
+    "os": "Windows 10",
+    "cpu": "2",
+    "memory": "4GB",
+    "disk": "60GB",
+    "network": "NAT"
+  },
+  {
+    "id": 4,
+    "room": 403,
+    "name": "May16",
+    "path": "D:\\Centos1\\Centos1.vmx",
+    "status": "Shutdown",
+    "ip": "192.168.38.2",
+    "os": "Centos",
+    "cpu": "2",
+    "memory": "4GB",
+    "disk": "60GB",
+    "network": "NAT"
+  }
+]
